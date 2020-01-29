@@ -1,0 +1,76 @@
+/*
+hr {
+  background-color: #f3dfe3;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 4px;
+  width: 80px;
+}
+*/
+body {
+  margin: 0;
+  color: white;
+}
+.h{
+  border: solid black 10px;
+}
+/***************************************************************** parts ***********************************/
+.part1{
+  background-color: #111d5e;
+}
+.part2{
+  background-color: #b21f66;
+}
+.part3{
+  background-color: #fe346e;
+}
+.part4{
+  background-color: #ffbd69;
+}
+/************************************************************** headings ***************************************/
+h1 {
+  color: #bbe1fa;
+  margin-top: 0;
+}
+h2 {
+  color: #bbe1fa;
+  margin-top: 0;
+  margin-bottom: 0;
+  text-align: center;
+}
+h3 {
+  color: #bbe1fa;
+  margin-top: 0;
+  margin-bottom: 0;
+  text-align: center;
+}
+h1:hover{
+  color: purple;
+}
+h2:hover{
+  color: purple;
+}
+h3:hover{
+  color: purple;
+}
+/************************************************************* images ************************************/
+.boody2 {
+  height: 300px;
+  width: 260px;
+  margin-top: 0;
+  border-radius: 100%;
+}
+.cloud{
+  position: relative;
+  left: 700px;
+  bottom: 300px;
+}
+.cloud2{
+  position: relative;
+  left: 900px;
+  bottom: 300px;
+}
+/********************************************************************************************************/
+.contact{
+  margin-left: 40px;
+}
